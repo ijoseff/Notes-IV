@@ -1,4 +1,4 @@
-# Structured Query Language Notes
+# Structured Query Language
 
 <img src="https://github.com/ijoseff/Notes-IV/blob/master/1.jpg?raw=true" />
 
